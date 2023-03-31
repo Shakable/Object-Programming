@@ -1,0 +1,15 @@
+C:\Users\oskari.elomaa\source\repos\Shakable\Object-Programming\Oli_Elain_Esimerkki\Oli_Elain_Esimerkki\bin\Debug\net6.0\Oli_Elain_Esimerkki.exe
+C:\Users\oskari.elomaa\source\repos\Shakable\Object-Programming\Oli_Elain_Esimerkki\Oli_Elain_Esimerkki\bin\Debug\net6.0\Oli_Elain_Esimerkki.deps.json
+C:\Users\oskari.elomaa\source\repos\Shakable\Object-Programming\Oli_Elain_Esimerkki\Oli_Elain_Esimerkki\bin\Debug\net6.0\Oli_Elain_Esimerkki.runtimeconfig.json
+C:\Users\oskari.elomaa\source\repos\Shakable\Object-Programming\Oli_Elain_Esimerkki\Oli_Elain_Esimerkki\bin\Debug\net6.0\Oli_Elain_Esimerkki.dll
+C:\Users\oskari.elomaa\source\repos\Shakable\Object-Programming\Oli_Elain_Esimerkki\Oli_Elain_Esimerkki\bin\Debug\net6.0\Oli_Elain_Esimerkki.pdb
+C:\Users\oskari.elomaa\source\repos\Shakable\Object-Programming\Oli_Elain_Esimerkki\Oli_Elain_Esimerkki\obj\Debug\net6.0\Oli_Elain_Esimerkki.csproj.AssemblyReference.cache
+C:\Users\oskari.elomaa\source\repos\Shakable\Object-Programming\Oli_Elain_Esimerkki\Oli_Elain_Esimerkki\obj\Debug\net6.0\Oli_Elain_Esimerkki.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oskari.elomaa\source\repos\Shakable\Object-Programming\Oli_Elain_Esimerkki\Oli_Elain_Esimerkki\obj\Debug\net6.0\Oli_Elain_Esimerkki.AssemblyInfoInputs.cache
+C:\Users\oskari.elomaa\source\repos\Shakable\Object-Programming\Oli_Elain_Esimerkki\Oli_Elain_Esimerkki\obj\Debug\net6.0\Oli_Elain_Esimerkki.AssemblyInfo.cs
+C:\Users\oskari.elomaa\source\repos\Shakable\Object-Programming\Oli_Elain_Esimerkki\Oli_Elain_Esimerkki\obj\Debug\net6.0\Oli_Elain_Esimerkki.csproj.CoreCompileInputs.cache
+C:\Users\oskari.elomaa\source\repos\Shakable\Object-Programming\Oli_Elain_Esimerkki\Oli_Elain_Esimerkki\obj\Debug\net6.0\Oli_Elain_Esimerkki.dll
+C:\Users\oskari.elomaa\source\repos\Shakable\Object-Programming\Oli_Elain_Esimerkki\Oli_Elain_Esimerkki\obj\Debug\net6.0\refint\Oli_Elain_Esimerkki.dll
+C:\Users\oskari.elomaa\source\repos\Shakable\Object-Programming\Oli_Elain_Esimerkki\Oli_Elain_Esimerkki\obj\Debug\net6.0\Oli_Elain_Esimerkki.pdb
+C:\Users\oskari.elomaa\source\repos\Shakable\Object-Programming\Oli_Elain_Esimerkki\Oli_Elain_Esimerkki\obj\Debug\net6.0\Oli_Elain_Esimerkki.genruntimeconfig.cache
+C:\Users\oskari.elomaa\source\repos\Shakable\Object-Programming\Oli_Elain_Esimerkki\Oli_Elain_Esimerkki\obj\Debug\net6.0\ref\Oli_Elain_Esimerkki.dll

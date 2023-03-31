@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Oli_Elain_Esimerkki/1.0.0": {
+        "runtime": {
+          "Oli_Elain_Esimerkki.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Oli_Elain_Esimerkki/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

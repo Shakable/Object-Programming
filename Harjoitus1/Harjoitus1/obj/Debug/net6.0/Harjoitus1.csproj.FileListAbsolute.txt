@@ -1,0 +1,15 @@
+C:\Users\oskari.elomaa\source\repos\Shakable\Object-Programming\Harjoitus1\Harjoitus1\bin\Debug\net6.0\Harjoitus1.exe
+C:\Users\oskari.elomaa\source\repos\Shakable\Object-Programming\Harjoitus1\Harjoitus1\bin\Debug\net6.0\Harjoitus1.deps.json
+C:\Users\oskari.elomaa\source\repos\Shakable\Object-Programming\Harjoitus1\Harjoitus1\bin\Debug\net6.0\Harjoitus1.runtimeconfig.json
+C:\Users\oskari.elomaa\source\repos\Shakable\Object-Programming\Harjoitus1\Harjoitus1\bin\Debug\net6.0\Harjoitus1.dll
+C:\Users\oskari.elomaa\source\repos\Shakable\Object-Programming\Harjoitus1\Harjoitus1\bin\Debug\net6.0\Harjoitus1.pdb
+C:\Users\oskari.elomaa\source\repos\Shakable\Object-Programming\Harjoitus1\Harjoitus1\obj\Debug\net6.0\Harjoitus1.csproj.AssemblyReference.cache
+C:\Users\oskari.elomaa\source\repos\Shakable\Object-Programming\Harjoitus1\Harjoitus1\obj\Debug\net6.0\Harjoitus1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oskari.elomaa\source\repos\Shakable\Object-Programming\Harjoitus1\Harjoitus1\obj\Debug\net6.0\Harjoitus1.AssemblyInfoInputs.cache
+C:\Users\oskari.elomaa\source\repos\Shakable\Object-Programming\Harjoitus1\Harjoitus1\obj\Debug\net6.0\Harjoitus1.AssemblyInfo.cs
+C:\Users\oskari.elomaa\source\repos\Shakable\Object-Programming\Harjoitus1\Harjoitus1\obj\Debug\net6.0\Harjoitus1.csproj.CoreCompileInputs.cache
+C:\Users\oskari.elomaa\source\repos\Shakable\Object-Programming\Harjoitus1\Harjoitus1\obj\Debug\net6.0\Harjoitus1.dll
+C:\Users\oskari.elomaa\source\repos\Shakable\Object-Programming\Harjoitus1\Harjoitus1\obj\Debug\net6.0\refint\Harjoitus1.dll
+C:\Users\oskari.elomaa\source\repos\Shakable\Object-Programming\Harjoitus1\Harjoitus1\obj\Debug\net6.0\Harjoitus1.pdb
+C:\Users\oskari.elomaa\source\repos\Shakable\Object-Programming\Harjoitus1\Harjoitus1\obj\Debug\net6.0\Harjoitus1.genruntimeconfig.cache
+C:\Users\oskari.elomaa\source\repos\Shakable\Object-Programming\Harjoitus1\Harjoitus1\obj\Debug\net6.0\ref\Harjoitus1.dll
