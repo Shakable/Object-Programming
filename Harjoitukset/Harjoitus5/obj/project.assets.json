@@ -1,11 +1,30 @@
 {
   "version": 3,
   "targets": {
-    "net6.0": {}
+    "net6.0": {
+      "Harjoitus6/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/Harjoitus6.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Harjoitus6.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "Harjoitus6/1.0.0": {
+      "type": "project",
+      "path": "../Harjoitus6/Harjoitus6.csproj",
+      "msbuildProject": "../Harjoitus6/Harjoitus6.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net6.0": []
+    "net6.0": [
+      "Harjoitus6 >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\oskari.elomaa\\.nuget\\packages\\": {},
@@ -39,7 +58,11 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\oskari.elomaa\\source\\repos\\Shakable\\Object-Programming\\Harjoitukset\\Harjoitus6\\Harjoitus6.csproj": {
+              "projectPath": "C:\\Users\\oskari.elomaa\\source\\repos\\Shakable\\Object-Programming\\Harjoitukset\\Harjoitus6\\Harjoitus6.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

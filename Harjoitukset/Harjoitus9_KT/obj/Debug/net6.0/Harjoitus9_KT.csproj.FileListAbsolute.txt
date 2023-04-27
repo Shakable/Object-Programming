@@ -1,0 +1,15 @@
+C:\Users\oskari.elomaa\source\repos\Shakable\Object-Programming\Harjoitukset\Harjoitus9_KT\bin\Debug\net6.0\Harjoitus9_KT.exe
+C:\Users\oskari.elomaa\source\repos\Shakable\Object-Programming\Harjoitukset\Harjoitus9_KT\bin\Debug\net6.0\Harjoitus9_KT.deps.json
+C:\Users\oskari.elomaa\source\repos\Shakable\Object-Programming\Harjoitukset\Harjoitus9_KT\bin\Debug\net6.0\Harjoitus9_KT.runtimeconfig.json
+C:\Users\oskari.elomaa\source\repos\Shakable\Object-Programming\Harjoitukset\Harjoitus9_KT\bin\Debug\net6.0\Harjoitus9_KT.dll
+C:\Users\oskari.elomaa\source\repos\Shakable\Object-Programming\Harjoitukset\Harjoitus9_KT\bin\Debug\net6.0\Harjoitus9_KT.pdb
+C:\Users\oskari.elomaa\source\repos\Shakable\Object-Programming\Harjoitukset\Harjoitus9_KT\obj\Debug\net6.0\Harjoitus9_KT.csproj.AssemblyReference.cache
+C:\Users\oskari.elomaa\source\repos\Shakable\Object-Programming\Harjoitukset\Harjoitus9_KT\obj\Debug\net6.0\Harjoitus9_KT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oskari.elomaa\source\repos\Shakable\Object-Programming\Harjoitukset\Harjoitus9_KT\obj\Debug\net6.0\Harjoitus9_KT.AssemblyInfoInputs.cache
+C:\Users\oskari.elomaa\source\repos\Shakable\Object-Programming\Harjoitukset\Harjoitus9_KT\obj\Debug\net6.0\Harjoitus9_KT.AssemblyInfo.cs
+C:\Users\oskari.elomaa\source\repos\Shakable\Object-Programming\Harjoitukset\Harjoitus9_KT\obj\Debug\net6.0\Harjoitus9_KT.csproj.CoreCompileInputs.cache
+C:\Users\oskari.elomaa\source\repos\Shakable\Object-Programming\Harjoitukset\Harjoitus9_KT\obj\Debug\net6.0\Harjoitus9_KT.dll
+C:\Users\oskari.elomaa\source\repos\Shakable\Object-Programming\Harjoitukset\Harjoitus9_KT\obj\Debug\net6.0\refint\Harjoitus9_KT.dll
+C:\Users\oskari.elomaa\source\repos\Shakable\Object-Programming\Harjoitukset\Harjoitus9_KT\obj\Debug\net6.0\Harjoitus9_KT.pdb
+C:\Users\oskari.elomaa\source\repos\Shakable\Object-Programming\Harjoitukset\Harjoitus9_KT\obj\Debug\net6.0\Harjoitus9_KT.genruntimeconfig.cache
+C:\Users\oskari.elomaa\source\repos\Shakable\Object-Programming\Harjoitukset\Harjoitus9_KT\obj\Debug\net6.0\ref\Harjoitus9_KT.dll
