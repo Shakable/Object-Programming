@@ -11,7 +11,6 @@ namespace Harjoitus9_KT
         public bool Paalla { get; set; }
 
         private int Aani_Pvt;
-        private float Taajuus_Pvt;
         public int Aani
         {
             get => Aani_Pvt;
@@ -31,6 +30,6 @@ namespace Harjoitus9_KT
                 Aani_Pvt = value;
             }
         }
-
+        
     }
 }

@@ -23,12 +23,9 @@ namespace Harjoitus8_KT
             Boonus = _Boonus;
             Auto = _Auto;
             instanssit++;
-            count = count + 1;
-            if (count > 1 ) 
-            {
-                throw new Exception();
-            }
+            count++;
         }
+
         public static void Pomo_Maara()
         {
             Console.WriteLine("Pomoja on " + count);

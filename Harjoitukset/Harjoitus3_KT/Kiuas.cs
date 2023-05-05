@@ -8,11 +8,14 @@ namespace Harjoitus3_KT
 {
     internal class Kiuas
     {
+        //Arvot oliolle.
         public bool Käynnissä { get; set; }
         public int Kosteus { get; set; }
         public double Lämpö { get; set; }
 
-        public string Asetukset()
+
+        
+        public string Asetukset() //Katsoo onko laite päällä ja kirjoittaa sen nykyiset asetukset.
         {
             string päällä;
             if (Käynnissä == true)
@@ -28,10 +31,5 @@ namespace Harjoitus3_KT
 
             return Nykyset_Asetukset;
         }
-
-        /*public string Muutos()
-        {
-            
-        }*/
     }
 }

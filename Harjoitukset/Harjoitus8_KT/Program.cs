@@ -18,8 +18,13 @@ internal class Program
         Tyontekijat.Kuinkamonta_Tyo();
         Pomo.Pomo_Maara();
 
-        Pomo pomo1 = new Pomo("Pater boss 2", "Helsinki", 70000, 3000, "Hyundai");
-
+        if (Pomo.count >= 1)
+        {
+            Console.WriteLine("Ei voi luoda enempää pomoja, jos pomo on olemassa.");
+        } else 
+        {
+            Pomo pomo1 = new Pomo("Pater boss 2", "Helsinki", 70000, 3000, "Hyundai");
+        }
         Henkilot.KuinkaMonta();
         Tyontekijat.Kuinkamonta_Tyo();
         Pomo.Pomo_Maara();

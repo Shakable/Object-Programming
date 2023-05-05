@@ -1,0 +1,20 @@
+﻿<Window x:Class="Harjoitus17_WPF_KT.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Harjoitus17_WPF_KT"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Button x:Name="keittioValo" Content="Keittiön valot" HorizontalAlignment="Left" Margin="160,-75,0,0" VerticalAlignment="center" Height="50" Width="180" FontSize="29" Click="vaihdaAsetus_K_Valot"/>
+        <Button x:Name="olohuoneValo" Content="Olohuoneen valot" HorizontalAlignment="Left" Margin="160,50,0,0" VerticalAlignment="Center" Height="50" Width="180" FontSize="20" Click="vaihdaAsetus_O_Valot"/>
+        <Button x:Name="oviLukko" Content="Oven lukko" HorizontalAlignment="Left" Margin="160,175,0,0" VerticalAlignment="Center" Height="50" Width="180" FontSize="34" Click="vaihdaAsetus_Lukko"/>
+        <TextBox x:Name="text_keittioValo" HorizontalAlignment="Left" Margin="370,-75,0,0" TextWrapping="Wrap" Text="Pois päältä" VerticalAlignment="Center" Height="50" Width="180" FontSize="34"/>
+        <TextBox x:Name="text_olohuoneValo" HorizontalAlignment="Left" Margin="370,50,0,0" TextWrapping="Wrap" Text="Pois päältä" VerticalAlignment="Center" Height="50" Width="180" FontSize="34"/>
+        <TextBox x:Name="text_oviLukko" HorizontalAlignment="Left" Margin="370,175,0,0" TextWrapping="Wrap" Text="Ei lukittu" VerticalAlignment="Center" Height="50" Width="180" FontSize="34"/>
+        <Button x:Name="temperature_down" Content="-1°C" HorizontalAlignment="Left" Margin="215,100,0,0" VerticalAlignment="Top" Width="70" Height="30" FontSize="20" Click="temperature_decrease"/>
+        <Button x:Name="temperature_up" Content="+1°C" HorizontalAlignment="Left" Margin="425,100,0,0" VerticalAlignment="Top" Width="70" Height="30" FontSize="20" Click="temperature_increase"/>
+        <TextBox x:Name="text_temperature" HorizontalAlignment="Left" TextWrapping="Wrap" Text="31 °C" VerticalAlignment="Top" Width="100" Margin="310,90,0,0" Height="50" FontSize="35"/>
+    </Grid>
+</Window>

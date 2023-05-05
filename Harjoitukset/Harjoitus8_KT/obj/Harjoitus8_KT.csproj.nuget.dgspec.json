@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\oskari.elomaa\\source\\repos\\Shakable\\Object-Programming\\Harjoitukset\\Harjoitus8_KT\\Harjoitus8_KT.csproj": {}
+    "C:\\Users\\oskari.elomaa\\Source\\Repos\\Shakable\\Object-Programming\\Harjoitukset\\Harjoitus8_KT\\Harjoitus8_KT.csproj": {}
   },
   "projects": {
-    "C:\\Users\\oskari.elomaa\\source\\repos\\Shakable\\Object-Programming\\Harjoitukset\\Harjoitus8_KT\\Harjoitus8_KT.csproj": {
+    "C:\\Users\\oskari.elomaa\\Source\\Repos\\Shakable\\Object-Programming\\Harjoitukset\\Harjoitus8_KT\\Harjoitus8_KT.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\oskari.elomaa\\source\\repos\\Shakable\\Object-Programming\\Harjoitukset\\Harjoitus8_KT\\Harjoitus8_KT.csproj",
+        "projectUniqueName": "C:\\Users\\oskari.elomaa\\Source\\Repos\\Shakable\\Object-Programming\\Harjoitukset\\Harjoitus8_KT\\Harjoitus8_KT.csproj",
         "projectName": "Harjoitus8_KT",
-        "projectPath": "C:\\Users\\oskari.elomaa\\source\\repos\\Shakable\\Object-Programming\\Harjoitukset\\Harjoitus8_KT\\Harjoitus8_KT.csproj",
+        "projectPath": "C:\\Users\\oskari.elomaa\\Source\\Repos\\Shakable\\Object-Programming\\Harjoitukset\\Harjoitus8_KT\\Harjoitus8_KT.csproj",
         "packagesPath": "C:\\Users\\oskari.elomaa\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\oskari.elomaa\\source\\repos\\Shakable\\Object-Programming\\Harjoitukset\\Harjoitus8_KT\\obj\\",
+        "outputPath": "C:\\Users\\oskari.elomaa\\Source\\Repos\\Shakable\\Object-Programming\\Harjoitukset\\Harjoitus8_KT\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
