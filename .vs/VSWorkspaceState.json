@@ -1,9 +1,10 @@
 {
   "ExpandedNodes": [
     "",
-    "\\Harjoitukset",
-    "\\Harjoitukset\\Harjoitus12_KT"
+    "\\Harjoitukset\\Harjoitus12_KT",
+    "\\WPF_Harjoitukset",
+    "\\WPF_Harjoitukset\\Harjoitus14_WPF"
   ],
-  "SelectedNode": "\\Harjoitukset\\Harjoitus12_KT\\Program.cs",
+  "SelectedNode": "\\WPF_Harjoitukset\\Harjoitus14_WPF\\MainWindow.xaml.cs",
   "PreviewInSolutionExplorer": false
 }
